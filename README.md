@@ -11,3 +11,4 @@
 - [树与二叉树](https://github.com/HellowJasper/Jasper-data-structure/blob/main/%E6%A0%91%E5%92%8C%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [哈夫曼树](https://github.com/HellowJasper/Jasper-data-structure/blob/main/%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91.md)
 
+> 本人纯蒟蒻，写的不好请多多指教
